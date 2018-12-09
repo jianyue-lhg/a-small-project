@@ -32,3 +32,4 @@ falcon-reporter/release/falcon_reporter_d
 classes/
 **/rebel.xml
 *.bak
+/target/
